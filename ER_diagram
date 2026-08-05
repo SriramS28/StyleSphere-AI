@@ -1,0 +1,24 @@
+                 USERS
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+    CUSTOMERS             VENDORS
+        │                     │
+        │                 PRODUCTS
+        │                     │
+        ├──────────────┐      │
+        ▼              ▼      ▼
+     CART          WISHLIST PRODUCT_IMAGES
+        │
+        ▼
+      ORDERS
+        │
+   ┌────┴─────┐
+   ▼          ▼
+PAYMENTS   REVIEWS
+        │
+        ▼
+ AI RECOMMENDATIONS
+        │
+        ▼
+ VIRTUAL TRY-ON
